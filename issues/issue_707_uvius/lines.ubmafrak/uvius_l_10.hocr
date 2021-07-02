@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-773-gd33ed' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "uvius_l_10.png"; bbox 0 0 838 44; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 11 5 825 38">
+    <p class='ocr_par' id='par_1_1' lang='ubma/frak2021_0.905_1587027_9141630' title="bbox 11 5 825 38">
+     <span class='ocr_line' id='line_1_1' title="bbox 11 5 825 38; baseline 0.001 -8; x_size 28; x_descenders 4; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 11 6 78 33; x_wconf 88'>caſtris</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 84 6 148 29; x_wconf 76'>millia</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 153 5 245 38; x_wconf 89'>paſſuum</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 252 6 333 29; x_wconf 90'>circiter</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 341 1 421 42; x_wconf 92'>ſeptem.</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 434 7 472 30; x_wconf 92'>Rex</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 482 14 530 29; x_wconf 91'>cum</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 536 6 578 29; x_wconf 91'>hoc</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 583 8 656 30; x_wconf 92'>itinere</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 668 7 747 30; x_wconf 91'>Cæſarẽ</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 753 10 825 32; x_wconf 91'>uenire</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

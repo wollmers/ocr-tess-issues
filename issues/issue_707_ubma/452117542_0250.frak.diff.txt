@@ -1,0 +1,206 @@
+../../../ocr-measures/scripts/ocr-compare.pl Version 0.03
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): 452117542_0250.GT.txt
+File 2 (OCR): 452117542_0250.frak.txt
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+14¶
+--| 0.333
+__¶
+
+_______
++++++++ 0.000
+——..t—¶
+
+___
++++ 0.000
+I.¶
+
+dans le fens, qui ſera plus amplement¶ 1.000
+
+expliqué par l'Article XIII.¶
+|||||||~|||||~-|||||||||||||| 0.897
+expliquè par P_Article XIII.¶
+
+XII.¶ 1.000
+
+Tout Navire appartenant aux Sujets¶
+||||||||||||||||~|||||||||||||||||| 0.971
+Tout Navire appattenant aux Sujets¶
+
+de Sa Majeſté Imperiale, qui entrera¶ 1.000
+
+dans un Port d'Eſpagne pour y faire¶
+||||||||||||||||~||||||||||||||||||| 0.972
+dans un Port d'Elpagne pour y faire¶
+
+commerce, ſera obligé d'y donner deux¶
+||||||||||||||||||||~||||||||||||||||| 0.974
+commerce, ſera obligè d'y donner deux¶
+
+Declarations des Marchandiſes qu'il y¶ 1.000
+
+voud_ra décharger & vendre, l'une au¶
+||||+||||~||||||||||||||||||||||||||| 0.946
+voudtra dècharger & vendre, l'une au¶
+
+Fermier ou Commiſſaire de la Doüane,¶ 1.000
+
+l'autre au Juge des Contrebandes; & il¶
+~-||||||||||||||||||||||||||||||||||||| 0.949
+P_autre au Juge des Contrebandes; & il¶
+
+ne poutra ouvrir ſes Eſcoutilles, juſqu'à¶
+||||||~|||||||||||||||||||||||||||||||~-~| 0.905
+ne pourra ouvrir ſes Eſcoutilles, juſqu᷑_a¶
+
+ce qu'il en ait obtenu permiſſion, &¶ 1.000
+
+que les Gardes, qu'on lui enverra de la¶ 1.000
+
+Do_üane, ſoient venus. Il_ne pourta auſ-¶
+||+||||||||||||||||||||||+|||||||~||||||| 0.927
+Doiüane, ſoient venus. Il ne pourra auſ-¶
+
+ſi, en quelque tems que ce ſoit, dechar-¶ 1.000
+
+ger aucune de ſes Marchandiſes ſans¶ 1.000
+
+une permiſſion par écrit, de les pou-¶
+|||||||||||||||||||~|~|||||||||||||||| 0.947
+une permiſſion par èctit, de les pou-¶
+
+voir tranſporter à la Doüane. En _échange¶
+||||||||||||||||||||||||~||||||||+|||||||| 0.952
+voir tranſporter à la Doũane. En Eéchange¶
+
+les Juges des Contrebandes, ni les Of_-¶
+||||||||||||||||||||||||||||||||||||~+|| 0.950
+les Juges des Contrebandes, ni les Ot⸗-¶
+
+ficiers de la Doüane ne pourront ouvrir¶ 1.000
+
+aucunes Balles, Caiſſes, Tonneaux &¶ 1.000
+
+autres enveloppes de Marchandiſes, ni¶ 1.000
+
+dans le Vaiſſeau, ni à Terre, juſqu'à ce¶
+|||||||||||||~||||||||||||||||||||||||||| 0.976
+dans le Vaiſſcau, ni à Terre, juſqu'à ce¶
+
+qu'_elles ſoient tranſportées à la Doüane;¶
+||~+||||||||||||||||||||||~|||||||||||||||| 0.930
+quꝰ elles ſoient tranſportèes à la Doüane;¶
+
+& même lorſqu'elles y ſeront arrivées,¶
+||||||||||||||||||||||||||||||||||~|||| 0.974
+& même lorſqu'elles y ſeront arrivëes,¶
+
+il ne leur ſera p_as permis de les ouvrir &¶
+|~|||||||||||||||+|||||||||||||||||||||||||| 0.955
+iL ne leur ſera pꝑas permis de les ouvrir &¶
+
+viſiter,¶
+||~|||||| 0.889
+viliter,¶
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+''' => '_' 0.2500       3      12
+''' => 'ꝰ' 0.0833       1      12
+'1' => '_' 1.0000       1       1
+'4' => '_' 1.0000       1       1
+'_' => ' ' 0.1176       2      17
+'_' => '.' 0.1765       3      17
+'_' => 'E' 0.0588       1      17
+'_' => 'I' 0.0588       1      17
+'_' => 'i' 0.0588       1      17
+'_' => 't' 0.1176       2      17
+'_' => '¶' 0.1176       2      17
+'_' => '—' 0.1765       3      17
+'_' => '⸗' 0.0588       1      17
+'_' => 'ꝑ' 0.0588       1      17
+'e' => 'c' 0.0085       1     118
+'f' => 't' 0.2500       1       4
+'l' => 'L' 0.0250       1      40
+'l' => 'P' 0.0500       2      40
+'r' => 't' 0.0308       2      65
+'t' => 'r' 0.0645       2      31
+'u' => 'u᷑' 0.0192       1      52
+'à' => 'a' 0.2000       1       5
+'é' => 'è' 0.6250       5       8
+'é' => 'ë' 0.1250       1       8
+'ü' => 'ũ' 0.2000       1       5
+'ſ' => 'l' 0.0588       2      34
+
+Summary:
+
+              lines   words   chars
+items ocr:       58     202    1051 matches + inserts + substitutions
+items grt:       56     198    1039 matches + deletions + substitutions
+matches:         39     173    1013 matches
+edits:           19      29      43 inserts + deletions + substitutions
+ subss:          17      25      21 substitutions
+ inserts:         2       4      17 inserts
+ deletions:       0       0       5 deletions
+precision:   0.6724  0.8564  0.9638 matches / (matches + substitutions + inserts)
+recall:      0.6964  0.8737  0.9750 matches / (matches + substitutions + deletions)
+accuracy:    0.6724  0.8564  0.9593 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.6842  0.8650  0.9694 ( 2 * recall * precision ) / ( recall + precision )
+error:       0.3393  0.1465  0.0414 ( inserts + deletions + substitutions ) / (items grt )

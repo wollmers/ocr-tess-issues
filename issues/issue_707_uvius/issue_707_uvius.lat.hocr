@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-773-gd33ed' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "issue_707_uvius.png"; bbox 0 0 841 889; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 16 10 109 80">
+    <p class='ocr_par' id='par_1_1' lang='lat' title="bbox 16 10 109 80">
+     <span class='ocr_line' id='line_1_1' title="bbox 16 10 109 80; baseline 0 -17; x_size 62.722221; x_descenders 9.7222223; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_1' title='bbox 16 10 109 80; x_wconf 76'>17:</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 16 91 815 437">
+    <p class='ocr_par' id='par_1_2' lang='lat' title="bbox 16 91 826 330">
+     <span class='ocr_line' id='line_1_2' title="bbox 16 91 167 206; baseline 0 0; x_size 153.33334; x_descenders 38.333336; x_ascenders 38.333332">
+      <span class='ocrx_word' id='word_1_2' title='bbox 16 91 167 206; x_wconf 95'>V.</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 16 213 815 437; baseline -0.004 -111; x_size 133.55556; x_descenders 33.388889; x_ascenders 33.388889">
+      <span class='ocrx_word' id='word_1_3' title='bbox 16 213 815 437; x_wconf 71'>SECVNDAE</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 16 341 547 654">
+    <p class='ocr_par' id='par_1_3' lang='lat' title="bbox 16 341 548 654">
+     <span class='ocr_line' id='line_1_4' title="bbox 16 341 547 654; baseline -0.004 -98; x_size 143.33333; x_descenders 35.833332; x_ascenders 35.833332">
+      <span class='ocrx_word' id='word_1_4' title='bbox 16 341 547 654; x_wconf 84'>LiBER</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 16 567 653 748">
+    <p class='ocr_par' id='par_1_4' lang='lat' title="bbox 16 567 659 748">
+     <span class='ocr_line' id='line_1_5' title="bbox 16 567 653 748; baseline -0.002 0; x_size 92.417389; x_descenders 9.4173908; x_ascenders 26">
+      <span class='ocrx_word' id='word_1_5' title='bbox 16 567 204 748; x_wconf 20'>ED</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 291 686 653 747; x_wconf 20'>xvin</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 14 759 828 843">
+    <p class='ocr_par' id='par_1_5' lang='lat' title="bbox 14 759 828 843">
+     <span class='ocr_line' id='line_1_6' title="bbox 16 759 694 795; baseline 0 0; x_size 39.387756; x_descenders 5.3877549; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_7' title='bbox 16 770 63 795; x_wconf 96'>20</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 206 759 694 795; x_wconf 91'>PROGYMNASMATA</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 14 804 828 843; baseline 0 -4; x_size 40.5; x_descenders 5.5; x_ascenders 10.5">
+      <span class='ocrx_word' id='word_1_9' title='bbox 14 805 73 839; x_wconf 92'>IN</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 102 806 448 841; x_wconf 88'>GENEROSVM</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 469 804 828 843; x_wconf 91'>ADOLESCEN-</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 14 850 828 883">
+    <p class='ocr_par' id='par_1_6' lang='lat' title="bbox 14 850 828 883">
+     <span class='ocr_line' id='line_1_8' title="bbox 14 850 828 883; baseline 0.001 -8; x_size 27; x_descenders 4; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_12' title='bbox 14 852 80 878; x_wconf 84'>caftris</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 87 851 151 874; x_wconf 93'>millia</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 156 850 248 883; x_wconf 54'>paffuum</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 255 851 336 874; x_wconf 88'>circitér</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 340 850 476 883; x_wconf 91'>feptem.R</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 454 846 479 887; x_wconf 96'>ex</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 485 859 533 874; x_wconf 93'>cum</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 539 851 659 875; x_wconf 90'>hocitinere</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 671 852 750 875; x_wconf 60'>Cafaré</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 757 855 828 876; x_wconf 96'>uenire</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

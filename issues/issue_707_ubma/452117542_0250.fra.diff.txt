@@ -1,0 +1,241 @@
+../../../ocr-measures/scripts/ocr-compare.pl Version 0.03
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): 452117542_0250.GT.txt
+File 2 (OCR): 452117542_0250.fra.txt
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+14¶
+--| 0.333
+__¶
+
+______________
+++++++++++++++ 0.000
+EVE ER SPP ET¶
+
+___
++++ 0.000
+Y:¶
+
+dans le fens, qui ſera plus amplement¶
+||||||||||||||||||~||||||||||||||||||| 0.974
+dans le fens, qui fera plus amplement¶
+
+expliqué par l'Article XIII.¶
+|||||||||||||~-|||||||||||||| 0.931
+expliqué par P_Article XIII.¶
+
+X___II.¶
+|+++|~-| 0.375
+X 1 I:_¶
+
+___Tout Navire appartenant aux Sujets¶
++++||||||||||||||||~|||||||||||||||||| 0.895
+.. Tout Navire appaîtenant aux Sujets¶
+
+de Sa Majeſté Imperiale, qui entrera¶
+||||||||||~|||||||||||||||||||||||||| 0.973
+de Sa Majeité Imperiale, qui entrera¶
+
+dans un Port d'Eſpagne pour y faire¶
+||||||||||||||||~||||||||||||||||||| 0.972
+dans un Port d'Efpagne pour y faire¶
+
+commerce, ſera obligé d'y donner deux¶
+||||||||||~||||||||||||~|-|||||||||||| 0.921
+commerce, {era obligé d’y_donner deux¶
+
+Declarations des Marchandiſes qu'il y¶
+||||||||||||||||||||||||||~|||||~||||| 0.947
+Declarations des Marchandifes qu’il y¶
+
+voudra décharger & vendre, l'une au¶
+||||||||||||||||||||||||||||~||||||| 0.972
+voudra décharger & vendre, l’une au¶
+
+Fer_mier ou Commiſſaire de la Doüane,¶
+|||+|||||||||||||~~||||||||||||||||||| 0.921
+Ferimier ou Commiflaire de la Doüane,¶
+
+l'autre au Juge des Contrebandes; & il¶
+|||||||||||||||||||||||||||||||||||-||| 0.974
+l'autre au Juge des Contrebandes; &_il¶
+
+ne poutra ouvrir ſes Eſcoutilles_, juſqu'à¶
+||||||~||||||||||~||||~|||||||||+|-||~||~~| 0.814
+ne pourra ouvrir fes Efcoutilles ,_jufqu’a¶
+
+ce qu'il en ait obtenu permiſſion_, &¶
+||||||||||||||||||||||||||||~~|||+|||| 0.921
+ce qu'il en ait obtenu permiflion , &¶
+
+que les Gardes, qu'on lui enverra de la¶
+||||||||||||||||||~|||||||||||||||||-||| 0.950
+que les Gardes, qu’on lui enverra de_la¶
+
+Doüane, ſoient venus. Ilne pou_rta auſ-¶
+||||||||~|||||||||||||||||||||+|-||||~|| 0.900
+Doüane, foient venus. Ilne pourr_a auf-¶
+
+ſi, en quelque tems que ce ſoit, dechar-¶
+~||||||||||||||||||||||||||~||||||||||||| 0.951
+fi, en quelque tems que ce {oit, dechar-¶
+
+ger aucune de ſes Marchandiſes ſans¶
+||||||||||||||~||||||||||||~|||~|||| 0.917
+ger aucune de fes Marchandifes fans¶
+
+une permiſſion par écrit, de les pou_-¶
+|||||||||~~|||||||||||||||||||||||||+|| 0.923
+une permiflion par écrit, de les pou.-¶
+
+voir tranſporter à la Doüane. En échange¶
+|||||||||~||||||||||||||||||||||||||||||| 0.976
+voir tranfporter à la Doüane. En échange¶
+
+les Juges des Contrebandes_, ni les Of-¶
+||||||||||||||||||||||||||+||||||||||||| 0.975
+les Juges des Contrebandes , ni les Of-¶
+
+ficiers de la Doüane ne pourront ouvrir¶
+||||||||||||||||||||||||||||||||-||||||| 0.975
+ficiers de la Doüane ne pourront_ouvrir¶
+
+aucunes Balles, Caiſſes, Tonneaux_ &¶
+|||||||||||||||||||~~||||||||||||+||| 0.919
+aucunes Balles, Caifles, Tonneaux: &¶
+
+autres enveloppes de Marchandiſes, ni¶
+|~||||||||||||||||||||||||||||~||||||| 0.947
+antres enveloppes de Marchandiles, ni¶
+
+dans le Vaiſſeau, ni à Terre, juſqu'à ce¶
+|||||||||||~~|||||||||||||||||||~||~|-||| 0.878
+dans le Vaifleau, ni à Terre, jufqu’à_ce¶
+
+qu'elles ſoient tranſportées à la Doü_ane;_¶
+||~||||||~||||||||||~|||||||||||||||~+||||+| 0.864
+qu’elles foient tranfportées à la Dotiane;:¶
+
+& même lorſqu'_elles y ſeront arrivées,¶
+||||||||||~|||+|||||~||~|||||||||||||||| 0.900
+& même lorfqu'’elles-y feront arrivées,¶
+
+il ne leur_ ſera pas permis de les ouvrir &¶
+||||||||||+|~||||||||||||||||||||||||||||||| 0.955
+il ne leur. fera pas permis de les ouvrir &¶
+
+viſiter,_¶
+||~-|||~+| 0.600
+vil_ters>¶
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+¶ 1.000
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+' ' => '-' 0.0070       1     142
+' ' => '_' 0.0423       6     142
+''' => '_' 0.0833       1      12
+''' => '’' 0.5833       7      12
+',' => 's' 0.0500       1      20
+'.' => '_' 0.2500       1       4
+'1' => '_' 1.0000       1       1
+'4' => '_' 1.0000       1       1
+'I' => ':' 0.1429       1       7
+'_' => ' ' 0.2571       9      35
+'_' => '.' 0.1143       4      35
+'_' => '1' 0.0286       1      35
+'_' => ':' 0.0857       3      35
+'_' => '>' 0.0286       1      35
+'_' => 'E' 0.1143       4      35
+'_' => 'P' 0.0571       2      35
+'_' => 'R' 0.0286       1      35
+'_' => 'S' 0.0286       1      35
+'_' => 'T' 0.0286       1      35
+'_' => 'V' 0.0286       1      35
+'_' => 'Y' 0.0286       1      35
+'_' => 'i' 0.0571       2      35
+'_' => 'r' 0.0286       1      35
+'_' => '¶' 0.0571       2      35
+'_' => '’' 0.0286       1      35
+'i' => '_' 0.0217       1      46
+'l' => 'P' 0.0250       1      40
+'r' => 'î' 0.0154       1      65
+'t' => '_' 0.0323       1      31
+'t' => 'r' 0.0323       1      31
+'u' => 'n' 0.0192       1      52
+'à' => 'a' 0.2000       1       5
+'ü' => 't' 0.2000       1       5
+'ſ' => 'f' 0.7059      24      34
+'ſ' => 'i' 0.0294       1      34
+'ſ' => 'l' 0.2059       7      34
+'ſ' => '{' 0.0588       2      34
+
+Summary:
+
+              lines   words   chars
+items ocr:       58     202    1062 matches + inserts + substitutions
+items grt:       56     198    1039 matches + deletions + substitutions
+matches:         27     142     977 matches
+edits:           31      66      97 inserts + deletions + substitutions
+ subss:          29      50      50 substitutions
+ inserts:         2      10      35 inserts
+ deletions:       0       6      12 deletions
+precision:   0.4655  0.7030  0.9200 matches / (matches + substitutions + inserts)
+recall:      0.4821  0.7172  0.9403 matches / (matches + substitutions + deletions)
+accuracy:    0.4655  0.6827  0.9097 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.4737  0.7100  0.9300 ( 2 * recall * precision ) / ( recall + precision )
+error:       0.5536  0.3333  0.0934 ( inserts + deletions + substitutions ) / (items grt )

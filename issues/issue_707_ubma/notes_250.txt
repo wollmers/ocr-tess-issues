@@ -1,0 +1,14 @@
+Page: 452117542_0250
+
+GT:  juſqu'à
+OCR: juſqu᷑a
+
+     cpoint  dec    utf-8       html       name
+'j'  U+006A  106    6a          &#x6a;     LATIN SMALL LETTER J (Lowercase_Letter)
+'u'  U+0075  117    75          &#x75;     LATIN SMALL LETTER U (Lowercase_Letter)
+'ſ'  U+017F  383    c5 bf       &#x17f;    LATIN SMALL LETTER LONG S (Lowercase_Letter)
+'q'  U+0071  113    71          &#x71;     LATIN SMALL LETTER Q (Lowercase_Letter)
+'u'  U+0075  117    75          &#x75;     LATIN SMALL LETTER U (Lowercase_Letter)
+'◌᷑'  U+1DD1  7633   e1 b7 91    &#x1dd1;   COMBINING UR ABOVE (Nonspacing_Mark)
+'a'  U+0061  97     61          &#x61;     LATIN SMALL LETTER A (Lowercase_Letter)
+

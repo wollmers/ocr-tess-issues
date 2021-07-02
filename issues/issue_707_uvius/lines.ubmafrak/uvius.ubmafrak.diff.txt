@@ -1,0 +1,60 @@
+../../../ocr-measures/scripts/ocr-compare.pl Version 0.03
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): uvius.GT.txt
+File 2 (OCR): lines.ubmafrak/uvius.ubmafrak.txt
+
+17¶ 1.000
+
+V.¶ 1.000
+
+SECVNDAE¶ 1.000
+
+B 3¶ 1.000
+
+LIBER¶ 1.000
+
+AD¶ 1.000
+
+L__XXXVIII.¶
+|++||||||||| 0.833
+LxũXXXVIII.¶
+
+20 PROGY_MNAS_MATA¶
+||||||||+||||+||||| 0.895
+20 PROGYVMNAS MATA¶
+
+IN GENEROSVM ADOLES_CEN-¶
+||||||||||||-||||||+||||| 0.920
+IN GENEROSVM_ADOLES CEN-¶
+
+caſtris millia paſſuum circitèr ſeptem._Rex cum hoc itinere Cæſarẽ uenire¶
+|||||||||||||||||||||||||||||~|||||||||+|||||||||||||||||||||||||||||||||| 0.973
+caſtris millia paſſuum circiter ſeptem. Rex cum hoc itinere Cæſarẽ uenire¶
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+' ' => '_' 0.0769       1      13
+'_' => ' ' 0.5000       3       6
+'_' => 'V' 0.1667       1       6
+'_' => 'x' 0.1667       1       6
+'_' => 'ũ' 0.1667       1       6
+'è' => 'e' 1.0000       1       1
+
+Summary:
+
+              lines   words   chars
+items ocr:       10      25     157 matches + inserts + substitutions
+items grt:       10      23     152 matches + deletions + substitutions
+matches:          6      17     150 matches
+edits:            4       8       8 inserts + deletions + substitutions
+ subss:           4       6       1 substitutions
+ inserts:         0       2       6 inserts
+ deletions:       0       0       1 deletions
+precision:   0.6000  0.6800  0.9554 matches / (matches + substitutions + inserts)
+recall:      0.6000  0.7391  0.9868 matches / (matches + substitutions + deletions)
+accuracy:    0.6000  0.6800  0.9494 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.6000  0.7083  0.9709 ( 2 * recall * precision ) / ( recall + precision )
+error:       0.4000  0.3478  0.0526 ( inserts + deletions + substitutions ) / (items grt )

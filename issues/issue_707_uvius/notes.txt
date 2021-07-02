@@ -1,0 +1,84 @@
+17
+V.
+SECVNDAE
+B 3
+LIBER
+AD
+LXXXVIII.
+20 PROGYVMNASMATA
+IN GENEROSVM ADOLES CEN-
+caſtris millia paſſuum circitèr ſeptem. Rex cum hoc itinere Cæſarẽ uenire
+
+#--- GT
+17
+V.
+SECVNDAE
+B 3
+LIBER
+AD
+LXXXVIII.
+20 PROGYMNASMATA
+IN GENEROSVM ADOLESCEN-
+caſtris millia paſſuum circitèr ſeptem.Rex cum hoc itinere Cæſaré uenire
+
+ 2
+ 2
+ 8
+ 3
+ 5
+ 2
+ 9
+16
+23
+72
+--
+142 chars
+
+1
+1
+2
+--
+4
+
+4/142 = 2,8%
+
+-------
+GT4Hist2M
+
+17
+
+V.
+dVNPa
+
+——
+
+ExEVIII
+
+20 PROGYMNASMATA
+IN GENEROSVMADOLESCEN-
+
+caſtris millia paſſuum circiter ſeptem. Rex cum hoc itinere Cæſarẽ uenire
+
+
+tesseract issue_707_uvius.png issue_707_uvius --oem 1 --psm 7 -l ubma/frak2021_0.905_1587027_9141630  --tessdata-dir /usr/local/share/tessdata  makebox hocr txt
+
+tesseract issue_707_uvius.png issue_707_uvius.GT4 --oem 1 --psm 7 -l GT4Hist2M  --tessdata-dir /usr/local/share/tessdata  makebox hocr txt
+
+
+-l GT4Hist2M --psm 4
+
+--tessdata-dir /usr/local/share/tessdata
+
+# linewise ubma/frak2021_0.905_1587027_9141630
+
+### linewise GT4Hist2M
+Iñ
+V.
+SECVNDAE
+B 3
+LIBER
+AD
+LXXXVIII.
+20 PROGYVMNASMATA
+IN GENEROSVMADOLESCEN-
+caſtris millia paſſuum circiter ſeptem. Rex cum hoc itinere Cæſarẽ uenire
