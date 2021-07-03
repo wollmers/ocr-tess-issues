@@ -1,0 +1,6 @@
+../../../ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): isisvonoken1826oken_0137.gt.txt
+File 2 (OCR): isisvonoken1826oken_0137psm4.thresh0.txt
+

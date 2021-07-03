@@ -1,0 +1,194 @@
+../../../ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): isisvonoken1826oken_0137.gt.txt
+File 2 (OCR): isisvonoken1826oken_0137.psm4.thresh0.txt
+
+Jſis¶
+----| 0.200
+____¶
+
+von¶
+---| 0.250
+___¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+Oke__n.¶
+|~~++||| 0.500
+O 4. n.¶
+
+_
++ 0.000
+¶
+
+Dri_t_tes Heft.¶
+|||+|+|~~||||||| 0.750
+Dri t t 8 Heft.¶
+
+1 8 2 6.¶
+~|~|||||| 0.778
+4 6 2 6.¶
+
+Preis des Jahrgangs 8 Thlr. ſaͤchſ. oder 14 Fl. 24 Xr. rhein.¶ 1.000
+
+_____
++++++ 0.000
+e ꝗU¶
+
+___Von dieſer Zeitſchrift erſcheint in jedem Monat ein Heft mit Kupfertafeln und Holzſchnitten, ſo¶
++++|||||~|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.960
+69 Von dleſer Zeitſchrift erſcheint in jedem Monat ein Heft mit Kupfertafeln und Holzſchnitten, ſo¶
+
+daß 6 Hefte einen Band ausmachen, und mithin deren im Jahre zwey herauskommen.__¶
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||++| 0.975
+daß 6 Hefte einen Band ausmachen, und mithin deren im Jahre zwey herauskommen. ö¶
+
+__Die Buchhandlungen wenden ſich an die Buchhandlung Brockhaus in Leipzig;¶
+~+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.973
+0 Die Buchhandlungen wenden ſich an die Buchhandlung Brockhaus in Leipzig;¶
+
+Die Poſtaͤmter an das in Jena, welches die Jſis mit ¼ Rabatt erhaͤlt.¶
+||||||||||||||||||||||||||||||||||||||||||~||||||||~|||||||||||||||| 0.971
+Die Poſtaͤmter an das in Jena, welches die Iſis mit & Rabatt erhaͤlt.¶
+
+Man kann nur auf einen ganzen Jahrgang Beſtellung machen, und die Zahlung iſt ungetheil¶ 1.000
+
+zur Leipziger Oſtermeſſe des laufenden Jahres zu leiſten.____¶
+--|||||||||||||||||||||||||||||||||||||||||||||||||||||||++++| 0.903
+__r Leipziger Oſtermeſſe des laufenden Jahres zu leiſten. ilt¶
+
+Beytraͤge werden an den Herausgeber unmittelbar, oder, und beſonders Buͤcher, im Wege¶ 1.000
+
+des Buchhandels an Brockhaus zu Leipzig geſchickt. Man ſetze nichts anderes darauf, als: Ge_⸗¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|| 0.989
+des Buchhandels an Brockhaus zu Leipzig geſchickt. Man ſetze nichts anderes darauf, als: Ges⸗¶
+
+drucktes, zur fahrenden Poſt; dickere Sachen gerollt. Es geht nichts verloren; das Recomman⸗¶
+-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||~||||||| 0.978
+_rucktes, zur fahrenden Poſt; dickere Sachen gerollt. Es geht nichts verloren; das Retomman⸗¶
+
+dieren iſt daher unnoͤthige Vertheuerung.¶
+~-||||||||||||||||||||||||||||||||||||||| 0.951
+l_eren iſt daher unnoͤthige Vertheuerung.¶
+
+Unfrankierte Buͤcher mit der Poſt werden zuruͤckgewieſen.¶ 1.000
+
+☛ Damit ſich Niemand vergeblich bemuͤhe, ſo wird hiemit angezeigt, daß in die Jſis keine politi⸗¶
+--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-|-~--|~---------||-| 0.812
+__Damit ſich Niemand vergeblich bemuͤhe, ſo wird hiemit angezeigt, daß in di_ _j__ j_________ti_¶
+
+ſchen Aufſaͤtze aufgenommen werden.__________________¶
+-||||||||~~|||||||||||||||||||||||++++++++++++++++++| 0.604
+_chen Auffätze aufgenommen werden. Iſs keine voliti⸗¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+___________________________________________________________
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 0.000
+— !!!!''——. !——..'''ꝛ ¼n¾¼—ẽ:—̃ T——————————WWW—W—W—Wf.—p—p—¶
+
+Jena bey der Redaction.¶
+||||||||||||||||||||||~| 0.958
+Jena bey der Redaction,¶
+
+¶ 1.000
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+' ' => '_' 0.0135       2     148
+'.' => ',' 0.0588       1      17
+'1' => '4' 0.5000       1       2
+'8' => '6' 0.5000       1       2
+'J' => 'I' 0.1111       1       9
+'J' => '_' 0.2222       2       9
+'_' => ' ' 0.1456      15     103
+'_' => '!' 0.0485       5     103
+'_' => ''' 0.0485       5     103
+'_' => '.' 0.0485       5     103
+'_' => '0' 0.0097       1     103
+'_' => '6' 0.0097       1     103
+'_' => '9' 0.0097       1     103
+'_' => ':' 0.0097       1     103
+'_' => 'I' 0.0097       1     103
+'_' => 'T' 0.0097       1     103
+'_' => 'U' 0.0097       1     103
+'_' => 'W' 0.0583       6     103
+'_' => 'e' 0.0291       3     103
+'_' => 'f' 0.0097       1     103
+'_' => 'i' 0.0388       4     103
+'_' => 'k' 0.0097       1     103
+'_' => 'l' 0.0194       2     103
+'_' => 'n' 0.0194       2     103
+'_' => 'o' 0.0097       1     103
+'_' => 'p' 0.0194       2     103
+'_' => 's' 0.0194       2     103
+'_' => 't' 0.0194       2     103
+'_' => 'v' 0.0097       1     103
+'_' => '¶' 0.0680       7     103
+'_' => '¼' 0.0194       2     103
+'_' => '¾' 0.0097       1     103
+'_' => 'ö' 0.0097       1     103
+'_' => 'ſ' 0.0097       1     103
+'_' => 'ẽ' 0.0097       1     103
+'_' => '—' 0.2136      22     103
+'_' => '—̃' 0.0097       1     103
+'_' => '⸗' 0.0097       1     103
+'_' => 'ꝗ' 0.0097       1     103
+'_' => 'ꝛ' 0.0097       1     103
+'aͤ' => 'ä' 0.2000       1       5
+'c' => 't' 0.0357       1      28
+'d' => '_' 0.0233       1      43
+'d' => 'l' 0.0233       1      43
+'e' => ' ' 0.0074       1     135
+'e' => '4' 0.0074       1     135
+'e' => '_' 0.0222       3     135
+'i' => '_' 0.0794       5      63
+'i' => 'l' 0.0159       1      63
+'k' => ' ' 0.0909       1      11
+'k' => 'j' 0.0909       1      11
+'l' => '_' 0.0455       1      22
+'n' => '_' 0.0235       2      85
+'o' => '_' 0.0952       2      21
+'p' => '_' 0.2000       1       5
+'s' => '8' 0.0385       1      26
+'s' => '_' 0.0769       2      26
+'u' => '_' 0.0294       1      34
+'v' => '_' 0.3333       1       3
+'z' => '_' 0.0714       1      14
+'¼' => '&' 1.0000       1       1
+'ſ' => '_' 0.0690       2      29
+'ſ' => 'f' 0.0345       1      29
+'ſ' => 'j' 0.0345       1      29
+'☛' => '_' 1.0000       1       1
+'⸗' => '_' 0.3333       1       3
+
+Summary:
+
+              lines   words   chars
+items ocr:       28     191    1159 matches + inserts + substitutions
+items grt:       21     170    1085 matches + deletions + substitutions
+matches:          5     144    1040 matches
+edits:           23      49     147 inserts + deletions + substitutions
+ subss:          16      24      17 substitutions
+ inserts:         7      23     102 inserts
+ deletions:       0       2      28 deletions
+precision:   0.1786  0.7539  0.8973 matches / (matches + substitutions + inserts)
+recall:      0.2381  0.8471  0.9585 matches / (matches + substitutions + deletions)
+accuracy:    0.1786  0.7461  0.8762 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.2041  0.7978  0.9269 ( 2 * recall * precision ) / ( recall + precision )
+error:       1.0952  0.2882  0.1355 ( inserts + deletions + substitutions ) / (items grt )

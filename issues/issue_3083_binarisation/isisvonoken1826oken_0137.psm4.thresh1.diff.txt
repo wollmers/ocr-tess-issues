@@ -1,0 +1,185 @@
+../../../ocr-measures/scripts/ocr-compare.pl Version 0.04
+
+Compare ground truth (GRT) against OCR text output:
+File 1 (GRT): isisvonoken1826oken_0137.gt.txt
+File 2 (OCR): isisvonoken1826oken_0137.psm4.thresh1.txt
+
+Jſis¶
+----| 0.200
+____¶
+
+von¶
+---| 0.250
+___¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+_
++ 0.000
+¶
+
+Oke_n.¶
+--|+||| 0.571
+__e n.¶
+
+_
++ 0.000
+¶
+
+D_ritte_s Heft.¶
+|+|||||+|||||||| 0.875
+DOritte s Heft.¶
+
+1 8 2 6.¶ 1.000
+
+_
++ 0.000
+¶
+
+Preis des Jahrgangs 8 Thlr. ſaͤchſ. oder 14 Fl. 24 Xr. rhein.¶
+|||||||||||||||||||||||||||||~|||||||||||||||||||||||||||||~| 0.967
+Preis des Jahrgangs 8 Thlr. ſachſ. oder 14 Fl. 24 Xr. rhein—¶
+
+_
++ 0.000
+¶
+
+Von dieſer Zeitſchrift erſcheint in jedem Monat ein Heft mit Kupfertafeln und Holzſchnitten, ſo¶ 1.000
+
+daß 6 Hefte einen Band ausmachen, und mithin deren im Jahre zwey herauskommen.¶ 1.000
+
+Die Buchhandlungen wenden ſich an die Buchhandlung Brockhaus in Leipzig;¶ 1.000
+
+Die Poſtaͤmter an das in Jena, welches die Jſis mit ¼ Rabatt erhaͤlt.¶
+||||||||||||||||||||||||||||||||||||||||||~||||||||~|||||||||||||||| 0.971
+Die Poſtaͤmter an das in Jena, welches die Iſis mit à Rabatt erhaͤlt.¶
+
+Man kann nur auf einen ganzen Jahrgang Beſtellung machen, und die Zahlung iſt ungethei_l¶
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+~| 0.978
+Man kann nur auf einen ganzen Jahrgang Beſtellung machen, und die Zahlung iſt ungetheilt¶
+
+zur Leipziger Oſterme_ſſe des laufenden Jahres zu leiſten.¶
+|||||||||||||||||||||+||||||||||||||||||||||||||||||||||||| 0.983
+zur Leipziger Oſtermeſſſe des laufenden Jahres zu leiſten.¶
+
+Beytraͤ_ge werden an den Herausgeber unmittelbar, oder, und beſonders Buͤcher, im Wege¶
+|||||~+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.976
+Beytraäge werden an den Herausgeber unmittelbar, oder, und beſonders Buͤcher, im Wege¶
+
+des Buchhandels an Brockhaus zu Leipzig geſchickt. Man ſetze nichts anderes darauf, als: Ge⸗¶ 1.000
+
+dr_ucktes, zur fahrenden Poſt; dickere Sachen gerollt. Es geht nichts verloren; das Recomman⸗¶
+||+~||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||~||||||| 0.968
+druücktes, zur fahrenden Poſt; dickere Sachen gerollt. Es geht nichts verloren; das Retomman⸗¶
+
+dieren iſt daher unnoͤthige Vertheuerung.¶ 1.000
+
+Unfrankierte Buͤcher mit der Poſt werden zuruͤckgewieſen.¶ 1.000
+
+☛_ Damit ſich Niemand vergeblich bemuͤhe, ſo wird hiemit angezeigt, daß in die Jſis keine politi⸗_¶
+~+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-~--------|---|||~+| 0.827
+E. Damit ſich Niemand vergeblich bemuͤhe, ſo wird hiemit angezeigt, daß in die _j________ ___iti/,¶
+
+ſchen Aufſaͤtze aufgenommen werden._______¶
+|||||||~|~~|||||||||||||||||||||||+++++++| 0.762
+ſchen Aüffäͤtze aufgenommen werden. ö titi¶
+
+Jena bey der Redaction.¶
+------------------------ 0.000
+________________________
+
+¶ 1.000
+
+
+Character match (confusion) table:
+GRT => OCR  ratio  errors   count
+---    --- ------ ------- -------
+' ' => '_' 0.0270       4     148
+'.' => '_' 0.0588       1      17
+'.' => '—' 0.0588       1      17
+'J' => 'I' 0.1111       1       9
+'J' => '_' 0.3333       3       9
+'O' => '_' 0.5000       1       2
+'R' => '_' 0.3333       1       3
+'_' => ' ' 0.1481       4      27
+'_' => ',' 0.0370       1      27
+'_' => '.' 0.0370       1      27
+'_' => 'O' 0.0370       1      27
+'_' => 'i' 0.0741       2      27
+'_' => 'l' 0.0370       1      27
+'_' => 't' 0.0741       2      27
+'_' => 'u' 0.0370       1      27
+'_' => '¶' 0.4074      11      27
+'_' => 'ä' 0.0370       1      27
+'_' => 'ö' 0.0370       1      27
+'_' => 'ſ' 0.0370       1      27
+'a' => '_' 0.0377       2      53
+'aͤ' => 'a' 0.4000       2       5
+'aͤ' => 'äͤ' 0.2000       1       5
+'b' => '_' 0.1429       1       7
+'c' => '_' 0.0357       1      28
+'c' => 't' 0.0357       1      28
+'d' => '_' 0.0465       2      43
+'e' => '_' 0.0444       6     135
+'i' => '_' 0.0635       4      63
+'k' => '_' 0.1818       2      11
+'l' => '_' 0.0455       1      22
+'l' => 't' 0.0455       1      22
+'n' => '_' 0.0471       4      85
+'o' => '_' 0.1429       3      21
+'p' => '_' 0.2000       1       5
+'r' => '_' 0.0182       1      55
+'s' => '_' 0.0769       2      26
+'t' => '_' 0.0208       1      48
+'u' => 'ü' 0.0588       2      34
+'v' => '_' 0.3333       1       3
+'y' => '_' 0.3333       1       3
+'¶' => '_' 0.0476       1      21
+'¼' => 'à' 1.0000       1       1
+'ſ' => '_' 0.0345       1      29
+'ſ' => 'f' 0.0345       1      29
+'ſ' => 'j' 0.0345       1      29
+'☛' => 'E' 1.0000       1       1
+'⸗' => '/' 0.3333       1       3
+
+Summary:
+
+              lines   words   chars
+items ocr:       31     179    1066 matches + inserts + substitutions
+items grt:       21     169    1084 matches + deletions + substitutions
+matches:          8     146    1025 matches
+edits:           24      38      86 inserts + deletions + substitutions
+ subss:          12      18      14 substitutions
+ inserts:        11      15      27 inserts
+ deletions:       1       5      45 deletions
+precision:   0.2581  0.8156  0.9615 matches / (matches + substitutions + inserts)
+recall:      0.3810  0.8639  0.9456 matches / (matches + substitutions + deletions)
+accuracy:    0.2500  0.7935  0.9226 matches / (matches + substitutions + inserts + deletions)
+f-score:     0.3077  0.8391  0.9535 ( 2 * recall * precision ) / ( recall + precision )
+error:       1.1429  0.2249  0.0793 ( inserts + deletions + substitutions ) / (items grt )
