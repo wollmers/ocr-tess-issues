@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-773-gd33ed' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "de_cv_0008.grey-line.jpg"; bbox 0 0 430 96; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 110 29 363 79">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 110 29 363 79">
+     <span class='ocr_line' id='line_1_1' title="bbox 189 29 363 53; baseline 0 -4; x_size 26.5; x_descenders 5.5; x_ascenders 5.5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 189 30 274 50; x_wconf 93'>02/2017</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 300 40 306 43; x_wconf 92'>-</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 310 30 363 53; x_wconf 97'>jetzt</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 110 56 363 79; baseline -0.004 -3; x_size 25.32258; x_descenders 5.3225803; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_4' title='bbox 110 56 129 76; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 138 56 295 79; x_wconf 96'>Unternehmen,</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 303 56 363 76; x_wconf 96'>Stadt</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
