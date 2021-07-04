@@ -13,27 +13,42 @@ Usage:
 tesseract in.png out -c thresholding_method=2
 
 0 - legacy (non-adaptive) Otsu (default)
-1 - adaptive Otsu
-2 - Tiled Sauvola
+1 - adaptive Otsu (Leptonica)
+2 - tiled Sauvola (Leptonica)
 
 This will use Sauvola. 
 1 will use adaptive Otsu. 
 Currently, the default is 0 - Otsu, which uses tesseract's legacy (non-adaptive) Otsu.
-#######
-$ time; tesseract isisvonoken1826oken_0007.png isisvonoken1826oken_0007  -c thresholding_method=2 -c tessedit_write_images=true --tessdata-dir /usr/local/share/tessdata txt hocr
 
-real	0m0.000s
-user	0m0.000s
-sys	0m0.000s
+#######
+
+convert -units PixelsPerInch isisvonoken1826oken_0137.jp2 -density 300 isisvonoken1826oken_0137.300.jp2
+
+
+convert isisvonoken1826oken_0137.jp2 -set units PixelsPerInch -density 300 isisvonoken1826oken_0137.300.jp2
+
+convert isisvonoken1826oken_0137.jp2 -set units PixelsPerInch -set density 300 isisvonoken1826oken_0137.300.jp2
+
+convert -density 300 -units PixelsPerInch isisvonoken1826oken_0137.jp2 -resample 300 isisvonoken1826oken_0137.300.jp2
+
+#######
+$ time tesseract isisvonoken1826oken_0007.png isisvonoken1826oken_0007  \
+    -c thresholding_method=2                                            \
+    -c tessedit_write_images=true                                       \
+    --tessdata-dir /usr/local/share/tessdata txt hocr
 
 -l ubma/frak2021_0.905_1587027_9141630
 
-time; tesseract isisvonoken1826oken_0137.jp2 isisvonoken1826oken_0137.psm4.mac -l ubma/frak2021_0.905_1587027_9141630 --psm 4 -c tessedit_write_images=true --tessdata-dir /usr/local/share/tessdata txt hocr
+$ time tesseract isisvonoken1826oken_0137.jp2 isisvonoken1826oken_0137.psm4.mac  \
+    -l ubma/frak2021_0.905_1587027_9141630                                       \
+    --psm 4                                                                      \
+    -c tessedit_write_images=true                                                \
+    --tessdata-dir /usr/local/share/tessdata txt hocr
 
-thresh        0        1        2
-real    0m2.037s 0m1.827s 0m2.298s
-user	    0m3.838s 0m3.086s 0m3.907s
-sys     0m0.048s 0m0.048s 0m0.032s
+thresh        0        1  d(t1/t0)       2  d(t2/t0) d(t2/t1) d(t2-t1)
+real    0m2.037s 0m1.827s -10 %    0m2.298s +13 %    +26 %    +0.471s
+user	    0m3.838s 0m3.086s -20 %    0m3.907s  +2 %    +27 %    +0.821s
+sys     0m0.048s 0m0.048s          0m0.032s
 
 v5.0.0-alpha-20210401 (git 38f0fdc)
 
