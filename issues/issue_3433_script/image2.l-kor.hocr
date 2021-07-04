@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-773-gd33ed' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "image2.png"; bbox 0 0 576 465; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 27 35 481 310">
+    <p class='ocr_par' id='par_1_1' lang='kor' title="bbox 27 35 232 55">
+     <span class='ocr_line' id='line_1_1' title="bbox 27 35 232 55; baseline 0 -1; x_size 24.78125; x_descenders 6.1953125; x_ascenders 6.1953125">
+      <span class='ocrx_word' id='word_1_1' title='bbox 27 36 44 55; x_wconf 92'>
+       <span class='ocrx_cinfo' title='x_bboxes 27 36 44 55; x_conf 98.925262'>아</span>
+      </span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 46 35 61 54; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 46 35 61 54; x_conf 99.028496'>침</span>
+      </span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 64 36 76 54; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 64 36 76 54; x_conf 99.033508'>에</span>
+      </span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 88 36 122 55; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 88 36 104 55; x_conf 99.570656'>일</span>
+       <span class='ocrx_cinfo' title='x_bboxes 106 36 122 55; x_conf 99.168221'>찍</span>
+      </span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 131 36 146 54; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 131 36 146 54; x_conf 99.040962'>일</span>
+      </span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 150 36 164 55; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 150 36 164 55; x_conf 99.026062'>어</span>
+      </span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 169 36 184 54; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 169 36 184 54; x_conf 99.021881'>납</span>
+      </span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 190 36 210 55; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 190 36 210 55; x_conf 99.043312'>니</span>
+      </span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 216 36 221 55; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 216 36 221 55; x_conf 99.040321'>까</span>
+      </span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 224 39 232 53; x_wconf 92'>
+       <span class='ocrx_cinfo' title='x_bboxes 224 39 232 53; x_conf 98.980988'>?</span>
+      </span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='kor' title="bbox 27 79 395 98">
+     <span class='ocr_line' id='line_1_2' title="bbox 27 79 395 98; baseline -0.005 0; x_size 24.78125; x_descenders 6.1953125; x_ascenders 6.1953125">
+      <span class='ocrx_word' id='word_1_11' title='bbox 27 79 42 98; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 27 79 42 98; x_conf 99.041603'>식</span>
+      </span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 45 79 80 98; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 45 79 80 98; x_conf 99.025612'>사</span>
+      </span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 64 75 77 108; x_wconf 97'>
+       <span class='ocrx_cinfo' title='x_bboxes 64 75 77 108; x_conf 99.57444'>를</span>
+      </span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 87 79 122 98; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 87 79 104 97; x_conf 99.572609'>늦</span>
+       <span class='ocrx_cinfo' title='x_bboxes 106 79 122 98; x_conf 99.567802'>게</span>
+      </span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 130 79 188 98; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 130 79 147 97; x_conf 99.574791'>합</span>
+       <span class='ocrx_cinfo' title='x_bboxes 149 79 164 98; x_conf 99.573746'>니</span>
+       <span class='ocrx_cinfo' title='x_bboxes 167 81 178 93; x_conf 99.57444'>다</span>
+       <span class='ocrx_cinfo' title='x_bboxes 179 79 188 98; x_conf 99.541138'>.</span>
+      </span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 198 80 213 97; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 198 80 213 97; x_conf 99.04248'>동</span>
+      </span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 215 79 250 97; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 215 79 250 97; x_conf 99.036224'>생</span>
+      </span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 233 75 246 108; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 233 75 246 108; x_conf 99.572838'>은</span>
+      </span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 258 79 274 98; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 258 79 274 98; x_conf 99.043388'>학</span>
+      </span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 275 80 311 95; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 275 80 311 95; x_conf 99.032372'>교</span>
+      </span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 295 75 308 108; x_wconf 97'>
+       <span class='ocrx_cinfo' title='x_bboxes 295 75 308 108; x_conf 99.574699'>로</span>
+      </span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 318 79 395 98; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 318 79 335 97; x_conf 99.574486'>갔</span>
+       <span class='ocrx_cinfo' title='x_bboxes 336 79 353 97; x_conf 99.574883'>습</span>
+       <span class='ocrx_cinfo' title='x_bboxes 356 79 370 98; x_conf 99.568321'>니</span>
+       <span class='ocrx_cinfo' title='x_bboxes 373 79 390 98; x_conf 99.574707'>다</span>
+       <span class='ocrx_cinfo' title='x_bboxes 392 94 395 96; x_conf 99.528366'>.</span>
+      </span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='kor' title="bbox 27 120 286 140">
+     <span class='ocr_line' id='line_1_3' title="bbox 27 120 286 140; baseline -0.008 0; x_size 24.78125; x_descenders 6.1953125; x_ascenders 6.1953125">
+      <span class='ocrx_word' id='word_1_23' title='bbox 27 121 62 140; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 27 121 42 140; x_conf 99.572754'>지</span>
+       <span class='ocrx_cinfo' title='x_bboxes 45 122 62 139; x_conf 99.572304'>금</span>
+      </span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 69 121 84 140; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 69 121 84 140; x_conf 99.041794'>회</span>
+      </span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 88 121 103 140; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 88 121 103 140; x_conf 99.033539'>의</span>
+      </span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 106 122 123 139; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 106 122 123 139; x_conf 99.041992'>중</span>
+      </span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 125 121 140 140; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 125 121 140 140; x_conf 99.020157'>이</span>
+      </span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 144 122 155 134; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 144 122 155 134; x_conf 99.040611'>니</span>
+      </span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 167 120 201 140; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 167 120 184 140; x_conf 99.570877'>후</span>
+       <span class='ocrx_cinfo' title='x_bboxes 185 121 201 140; x_conf 99.573837'>에</span>
+      </span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 209 121 286 139; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 209 122 226 137; x_conf 99.573463'>오</span>
+       <span class='ocrx_cinfo' title='x_bboxes 228 121 243 139; x_conf 99.571411'>십</span>
+       <span class='ocrx_cinfo' title='x_bboxes 246 121 261 139; x_conf 99.574509'>시</span>
+       <span class='ocrx_cinfo' title='x_bboxes 264 122 281 137; x_conf 99.571938'>오</span>
+       <span class='ocrx_cinfo' title='x_bboxes 283 136 286 138; x_conf 99.539543'>.</span>
+      </span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='kor' title="bbox 27 163 304 183">
+     <span class='ocr_line' id='line_1_4' title="bbox 27 163 304 183; baseline 0 -1; x_size 24.78125; x_descenders 6.1953125; x_ascenders 6.1953125">
+      <span class='ocrx_word' id='word_1_31' title='bbox 27 164 62 183; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 27 164 44 183; x_conf 99.574341'>나</span>
+       <span class='ocrx_cinfo' title='x_bboxes 45 164 62 182; x_conf 99.056725'>는</span>
+      </span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 69 165 86 180; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 69 165 86 180; x_conf 99.037239'>오</span>
+      </span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 87 163 104 183; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 87 163 104 183; x_conf 99.028755'>후</span>
+      </span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 106 164 118 182; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 106 164 118 182; x_conf 99.572464'>에</span>
+      </span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 131 164 147 183; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 131 164 147 183; x_conf 99.026405'>갔</span>
+      </span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 149 164 166 183; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 149 164 166 183; x_conf 99.042793'>다</span>
+      </span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 167 164 184 182; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 167 164 184 182; x_conf 99.037498'>올</span>
+      </span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 186 164 221 183; x_wconf 97'>
+       <span class='ocrx_cinfo' title='x_bboxes 186 164 201 183; x_conf 99.572182'>데</span>
+       <span class='ocrx_cinfo' title='x_bboxes 204 164 221 183; x_conf 99.573219'>가</span>
+      </span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 228 164 304 183; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 228 164 244 182; x_conf 99.574509'>있</span>
+       <span class='ocrx_cinfo' title='x_bboxes 246 164 263 182; x_conf 99.573593'>습</span>
+       <span class='ocrx_cinfo' title='x_bboxes 265 164 280 183; x_conf 99.574799'>니</span>
+       <span class='ocrx_cinfo' title='x_bboxes 283 164 300 183; x_conf 99.57457'>다</span>
+       <span class='ocrx_cinfo' title='x_bboxes 302 179 304 181; x_conf 99.554482'>.</span>
+      </span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='kor' title="bbox 27 206 360 225">
+     <span class='ocr_line' id='line_1_5' title="bbox 27 206 360 225; baseline 0.009 -3; x_size 24.78125; x_descenders 6.1953125; x_ascenders 6.1953125">
+      <span class='ocrx_word' id='word_1_40' title='bbox 27 206 98 224; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 27 208 44 222; x_conf 99.574142'>프</span>
+       <span class='ocrx_cinfo' title='x_bboxes 45 207 62 222; x_conf 99.57399'>로</span>
+       <span class='ocrx_cinfo' title='x_bboxes 63 208 80 222; x_conf 99.573875'>그</span>
+       <span class='ocrx_cinfo' title='x_bboxes 83 206 98 224; x_conf 99.574783'>램</span>
+      </span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 107 206 123 225; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 107 206 123 225; x_conf 99.030487'>사</span>
+      </span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 124 206 141 224; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 124 206 141 224; x_conf 99.041595'>용</span>
+      </span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 143 206 159 224; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 143 206 159 224; x_conf 99.013992'>설</span>
+      </span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 162 206 176 224; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 162 206 176 224; x_conf 99.041023'>명</span>
+      </span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 180 206 195 225; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 180 206 195 225; x_conf 99.020454'>서</span>
+      </span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 198 208 208 221; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 198 208 208 221; x_conf 99.573364'>가</span>
+      </span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 223 206 237 225; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 223 206 237 225; x_conf 99.042732'>여</span>
+      </span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 241 206 275 225; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 241 206 275 225; x_conf 99.034851'>기</span>
+      </span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 260 202 273 235; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 260 202 273 235; x_conf 99.036797'>에</span>
+      </span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 283 206 360 225; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 283 206 299 224; x_conf 99.574783'>있</span>
+       <span class='ocrx_cinfo' title='x_bboxes 301 206 318 224; x_conf 99.57489'>습</span>
+       <span class='ocrx_cinfo' title='x_bboxes 321 206 335 225; x_conf 99.573318'>니</span>
+       <span class='ocrx_cinfo' title='x_bboxes 338 206 355 225; x_conf 99.574722'>다</span>
+       <span class='ocrx_cinfo' title='x_bboxes 357 221 360 223; x_conf 99.52301'>.</span>
+      </span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='kor' title="bbox 27 249 481 310">
+     <span class='ocr_line' id='line_1_6' title="bbox 27 249 481 268; baseline -0.002 0; x_size 24.78125; x_descenders 6.1953125; x_ascenders 6.1953125">
+      <span class='ocrx_word' id='word_1_51' title='bbox 27 249 97 268; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 27 249 42 268; x_conf 99.545494'>여</span>
+       <span class='ocrx_cinfo' title='x_bboxes 46 249 61 268; x_conf 99.574829'>러</span>
+       <span class='ocrx_cinfo' title='x_bboxes 64 249 81 268; x_conf 99.572647'>가</span>
+       <span class='ocrx_cinfo' title='x_bboxes 82 249 97 268; x_conf 99.278755'>지</span>
+      </span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 106 249 122 267; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 106 249 122 267; x_conf 99.031044'>언</span>
+      </span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 124 249 140 268; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 124 249 140 268; x_conf 99.037636'>어</span>
+      </span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 143 249 177 268; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 143 249 177 268; x_conf 99.041618'>들</span>
+      </span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 161 245 174 278; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 161 245 174 278; x_conf 99.570076'>에</span>
+      </span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 186 249 221 268; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 186 249 201 268; x_conf 99.574432'>대</span>
+       <span class='ocrx_cinfo' title='x_bboxes 203 249 221 267; x_conf 99.358643'>한</span>
+      </span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 228 249 245 268; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 228 249 245 268; x_conf 99.0429'>다</span>
+      </span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 246 249 294 268; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 246 249 294 268; x_conf 99.042328'>중</span>
+      </span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 264 245 283 278; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 264 245 283 278; x_conf 99.042099'>인</span>
+      </span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 295 249 318 267; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 295 249 318 267; x_conf 99.040794'>식</span>
+      </span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 301 245 314 278; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 301 245 314 278; x_conf 99.537994'>을</span>
+      </span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 326 249 340 268; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 326 249 340 268; x_conf 99.042168'>지</span>
+      </span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 344 249 359 267; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 344 249 359 267; x_conf 99.042999'>원</span>
+      </span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 363 249 395 268; x_wconf 97'>
+       <span class='ocrx_cinfo' title='x_bboxes 363 249 379 268; x_conf 99.574799'>하</span>
+       <span class='ocrx_cinfo' title='x_bboxes 380 251 395 265; x_conf 99.574783'>고</span>
+      </span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 404 249 481 268; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 404 249 421 267; x_conf 99.574684'>있</span>
+       <span class='ocrx_cinfo' title='x_bboxes 422 249 439 267; x_conf 99.574852'>습</span>
+       <span class='ocrx_cinfo' title='x_bboxes 442 249 456 268; x_conf 99.571785'>니</span>
+       <span class='ocrx_cinfo' title='x_bboxes 460 249 477 268; x_conf 99.573593'>다</span>
+       <span class='ocrx_cinfo' title='x_bboxes 478 264 481 266; x_conf 99.532364'>.</span>
+      </span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 27 291 424 310; baseline -0.005 0; x_size 24.78125; x_descenders 6.1953125; x_ascenders 6.1953125">
+      <span class='ocrx_word' id='word_1_66' title='bbox 27 291 63 310; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 27 291 44 309; x_conf 99.573891'>장</span>
+       <span class='ocrx_cinfo' title='x_bboxes 45 291 63 310; x_conf 99.567673'>차</span>
+      </span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 69 291 122 310; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 69 291 84 310; x_conf 99.573944'>어</span>
+       <span class='ocrx_cinfo' title='x_bboxes 88 291 103 309; x_conf 99.562042'>떻</span>
+       <span class='ocrx_cinfo' title='x_bboxes 106 291 122 310; x_conf 99.573792'>게</span>
+      </span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 130 291 147 309; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 130 291 147 309; x_conf 99.574562'>할</span>
+      </span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 155 291 171 310; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 155 291 171 310; x_conf 99.041214'>작</span>
+      </span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 173 291 188 309; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 173 291 188 309; x_conf 99.043121'>정</span>
+      </span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 191 291 256 310; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 191 291 206 309; x_conf 99.574142'>입</span>
+       <span class='ocrx_cinfo' title='x_bboxes 210 291 224 310; x_conf 99.571037'>니</span>
+       <span class='ocrx_cinfo' title='x_bboxes 228 291 245 310; x_conf 99.57428'>까</span>
+       <span class='ocrx_cinfo' title='x_bboxes 246 294 256 308; x_conf 99.559555'>?</span>
+      </span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 263 291 278 310; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 263 291 278 310; x_conf 99.57457'>내</span>
+      </span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 287 291 304 309; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 287 291 304 309; x_conf 99.041847'>잘</span>
+      </span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 305 292 322 309; x_wconf 93'>
+       <span class='ocrx_cinfo' title='x_bboxes 305 292 322 309; x_conf 99.038033'>못</span>
+      </span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 324 292 337 309; x_wconf 97'>
+       <span class='ocrx_cinfo' title='x_bboxes 324 292 337 309; x_conf 99.574837'>은</span>
+      </span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 347 291 424 310; x_wconf 96'>
+       <span class='ocrx_cinfo' title='x_bboxes 347 291 364 309; x_conf 99.574013'>없</span>
+       <span class='ocrx_cinfo' title='x_bboxes 365 291 382 309; x_conf 99.574638'>습</span>
+       <span class='ocrx_cinfo' title='x_bboxes 385 291 399 310; x_conf 99.467842'>니</span>
+       <span class='ocrx_cinfo' title='x_bboxes 403 291 420 310; x_conf 99.574562'>다</span>
+       <span class='ocrx_cinfo' title='x_bboxes 421 306 424 308; x_conf 99.556259'>.</span>
+      </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 129 396 203 398">
+    <p class='ocr_par' id='par_1_7' lang='kor' title="bbox 129 396 203 398">
+     <span class='ocr_line' id='line_1_8' title="bbox 129 396 203 398; baseline 0 0; x_size 1; x_descenders -0.5; x_ascenders 0.5">
+      <span class='ocrx_word' id='word_1_77' title='bbox 129 396 203 398; x_wconf 95'>
+       <span class='ocrx_cinfo' title='x_bboxes 129 396 203 398; x_conf 95'> </span>
+      </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
