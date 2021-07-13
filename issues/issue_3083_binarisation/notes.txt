@@ -10,7 +10,7 @@ Tiled Sauvola
 Both use Leptonica.
 
 Usage:
-tesseract in.png out -c thresholding_method=2
+tesseract in.png out -c thresholding_method=<thresh>
 
 0 - legacy (non-adaptive) Otsu (default)
 1 - adaptive Otsu (Leptonica)
@@ -51,4 +51,71 @@ user	    0m3.838s 0m3.086s -20 %    0m3.907s  +2 %    +27 %    +0.821s
 sys     0m0.048s 0m0.048s          0m0.032s
 
 v5.0.0-alpha-20210401 (git 38f0fdc)
+
+### on w3
+
+$ time tesseract isisvonoken1826oken_0137.jp2 isisvonoken1826oken_0137.psm4.v4 -l deu --psm 4 -c tessedit_write_images=true makebox txt hocr
+    
+$ time tesseract isisvonoken1826oken_0137.jp2 isisvonoken1826oken_0137.psm4.v4 -l deu --psm 4 -c tessedit_write_images=true makebox txt hocr
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Estimating resolution as 416
+Image too small to scale!! (3x36 vs min width of 3)
+Line cannot be recognized!!
+
+
+########
+time tesseract isisvonoken1826oken_0137.jp2 isisvonoken1826oken_0137.oem0 -l deu --psm 4 --oem 0  --tessdata-dir /usr/local/share/tessdata txt hocr
+
+   <div class='ocr_carea' id='block_1_9' title="bbox 44 2353 1846 2430">
+    <p class='ocr_par' id='par_1_10' lang='deu' title="bbox 44 2353 1846 2430">
+     <span class='ocr_line' id='line_1_22' title="bbox 125 2353 1827 2394; baseline 0.005 -7; x_size 41; x_descenders 6; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_161' title='bbox 125 2353 217 2394; x_wconf 53'><strong>@</strong></span>
+41
+      <span class='ocrx_word' id='word_1_162' title='bbox 275 2356 373 2388; x_wconf 61'><strong>“Damit</strong></span>
+32
+      <span class='ocrx_word' id='word_1_163' title='bbox 396 2358 439 2391; x_wconf 74'><strong>ficb</strong></span>
+33
+      <span class='ocrx_word' id='word_1_164' title='bbox 456 2356 600 2389; x_wconf 35'><strong>&quot;»)iiemanb</strong></span>
+33
+      <span class='ocrx_word' id='word_1_165' title='bbox 626 2365 669 2390; x_wconf 75'><strong>ner</strong></span>
+25
+      <span class='ocrx_word' id='word_1_166' title='bbox 688 2358 765 2394; x_wconf 74'><strong>ebiicf;</strong></span>
+36
+      <span class='ocrx_word' id='word_1_167' title='bbox 794 2358 900 2394; x_wconf 76'><strong>bemübe</strong></span>
+36
+      <span class='ocrx_word' id='word_1_168' title='bbox 943 2359 970 2394; x_wconf 81'><strong>fo</strong></span>
+35
+      <span class='ocrx_word' id='word_1_169' title='bbox 997 2359 1062 2391; x_wconf 72'><strong>wirb</strong></span>
+32
+      <span class='ocrx_word' id='word_1_170' title='bbox 1082 2358 1175 2394; x_wconf 76'><strong>biemit</strong></span>
+36
+      <span class='ocrx_word' id='word_1_171' title='bbox 1193 2366 1227 2391; x_wconf 84'><strong>an</strong></span>
+25
+      <span class='ocrx_word' id='word_1_172' title='bbox 1248 2361 1325 2393; x_wconf 66'><strong>seit</strong></span>
+
+      <span class='ocrx_word' id='word_1_173' title='bbox 1368 2363 1400 2394; x_wconf 74'><strong>ba</strong></span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 1447 2363 1472 2369; x_wconf 81'>&quot;</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 1511 2363 1518 2370; x_wconf 86'><strong><em>&#39;</em></strong></span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 1656 2366 1663 2373; x_wconf 92'><strong>&#39;</strong></span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 1784 2370 1791 2376; x_wconf 92'>&#39;</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 1821 2370 1827 2376; x_wconf 92'><strong><em>&#39;</em></strong></span>
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 44 2363 1846 2430; baseline 0 -2; x_size 35; x_descenders 6; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_179' title='bbox 44 2393 118 2430; x_wconf 64'><strong>ibm</strong></span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 145 2391 259 2429; x_wconf 61'><strong>2iuffeiae</strong></span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 285 2392 487 2427; x_wconf 78'><strong>aufgenommen</strong></span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 512 2395 623 2423; x_wconf 66'><strong>Werben.</strong></span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 670 2367 684 2395; x_wconf 65'><strong>g</strong></span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 906 2377 915 2395; x_wconf 72'><em>&#39;</em></span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 1230 2365 1269 2396; x_wconf 64'>“</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 1296 2369 1339 2398; x_wconf 77'><strong>g,</strong></span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 1404 2363 1418 2399; x_wconf 52'><strong>6</strong></span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 1444 2370 1473 2396; x_wconf 84'><strong>m</strong></span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 1491 2365 1532 2417; x_wconf 58'><strong>W-</strong></span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 1548 2364 1608 2413; x_wconf 48'><strong>3“</strong></span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 1625 2366 1697 2403; x_wconf 53'><strong>“&quot;&quot;</strong></span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 1713 2370 1846 2405; x_wconf 61'><strong>mm:</strong></span>
+     </span>
+    </p>
 
