@@ -1,0 +1,13 @@
+issue_3489_ghost_text
+
+helmut@mbp:~/github/ocr-hw/ocr-tess-issues/issues/issue_3489_ghost_text$ la
+total 288
+drwxr-xr-x   5 helmut  staff   160B 12 Jul 18:41 .
+drwxr-xr-x  15 helmut  staff   480B 12 Jul 18:25 ..
+-rw-r--r--   1 helmut  staff   103K 12 Jul 18:27 isisvonoken1826oken_0137.line_1_22.jpg
+-rw-r--r--   1 helmut  staff    32K 12 Jul 18:30 isisvonoken1826oken_0137.line_1_23.jpg
+
+time tesseract isisvonoken1826oken_0137.line_1_22.jpg isisvonoken1826oken_0137.line_1_22 -l ubma/frak2021_0.905_1587027_9141630 -c tessedit_write_images=true --tessdata-dir /usr/local/share/tessdata txt hocr makebox
+
+time tesseract isisvonoken1826oken_0137.line_1_22.jpg isisvonoken1826oken_0137.line_1_22 -l tessdata4/deu_frak -c tessedit_write_images=true --oem 0 --tessdata-dir /usr/local/share/tessdata txt hocr makebox
+

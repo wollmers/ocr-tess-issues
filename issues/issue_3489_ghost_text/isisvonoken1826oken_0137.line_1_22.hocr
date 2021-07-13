@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-773-gd33ed' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "isisvonoken1826oken_0137.line_1_22.jpg"; bbox 0 0 1602 62; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 13 8 1584 57">
+    <p class='ocr_par' id='par_1_1' lang='ubma/frak2021_0.905_1587027_9141630' title="bbox 13 8 1584 57">
+     <span class='ocr_line' id='line_1_1' title="bbox 13 8 1584 57; baseline 0.001 -14; x_size 46; x_descenders 13; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_1' title='bbox 13 9 110 40; x_wconf 92'>Damit</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 134 10 177 43; x_wconf 92'>ſich</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 194 8 338 41; x_wconf 91'>Niemand</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 364 10 503 47; x_wconf 92'>vergeblich</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 532 10 653 47; x_wconf 88'>bemuͤhe,</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 681 11 708 46; x_wconf 88'>ſo</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 735 11 800 43; x_wconf 93'>wird</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 820 11 913 46; x_wconf 91'>hiemit</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 931 13 1077 50; x_wconf 69'>angezeigt,</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1106 15 1156 51; x_wconf 93'>daß</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1183 15 1211 48; x_wconf 93'>in</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1229 15 1270 49; x_wconf 93'>die</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1286 16 1346 54; x_wconf 82'>Iſis</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1363 18 1435 55; x_wconf 69'>keine</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1451 22 1584 57; x_wconf 16'>politi,</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 23 44 350 62">
+    <p class='ocr_par' id='par_1_2' lang='ubma/frak2021_0.905_1587027_9141630' title="bbox 23 44 350 62">
+     <span class='ocr_line' id='line_1_2' title="bbox 23 44 350 62; baseline 0 0; x_size 23.279999; x_descenders 5.2799997; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_16' title='bbox 23 44 223 62; x_wconf 3'>Iunfaounammon</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 250 47 350 62; x_wconf 0'>Mounnsda</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

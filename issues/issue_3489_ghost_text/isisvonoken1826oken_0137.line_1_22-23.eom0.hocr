@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-773-gd33ed' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "isisvonoken1826oken_0137.line_1_22-23.jpg"; bbox 0 0 1840 90; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1830 90">
+    <p class='ocr_par' id='par_1_1' lang='tessdata4/deu_frak' title="bbox 0 0 1830 90">
+     <span class='ocr_line' id='line_1_1' title="bbox 134 10 1811 47; baseline 0.006 -8; x_size 40; x_descenders 7; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_1' title='bbox 134 10 201 47; x_wconf 43'>IT</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 259 11 356 42; x_wconf 84'>Damit</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 380 12 423 45; x_wconf 80'>sich</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 440 10 584 43; x_wconf 78'>Niemand</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 610 19 653 44; x_wconf 83'>ver</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 672 13 720 44; x_wconf 80'>eb«</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 778 13 791 44; x_wconf 81'>b</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 840 12 847 21; x_wconf 78'>·</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1009 13 1014 18; x_wconf 72'>«</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1087 12 1092 18; x_wconf 88'>·</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1140 13 1146 18; x_wconf 83'>·</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1271 15 1278 21; x_wconf 80'>«</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1431 17 1456 23; x_wconf 73'>«</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1495 17 1502 24; x_wconf 80'>·</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1640 20 1647 27; x_wconf 88'>·</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1768 24 1811 30; x_wconf 78'>«</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1830 90; baseline -0.01 0; x_size 50; x_descenders 7; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_17' title='bbox 0 0 102 90; x_wconf 52'>ichs-i</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 129 45 243 83; x_wconf 69'>Aufsätze</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 269 46 471 81; x_wconf 81'>aufgenommen</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 496 49 607 77; x_wconf 74'>werden«</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 654 21 668 49; x_wconf 65'>g</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 702 12 749 48; x_wconf 59'>uch</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 795 14 899 49; x_wconf 58'>Wabe«</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 927 13 954 48; x_wconf 68'>sp</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 981 14 1046 45; x_wconf 65'>Wd</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1066 15 1159 48; x_wconf 61'>Mmu</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1177 18 1323 52; x_wconf 43'>angemgy</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1352 17 1402 53; x_wconf 59'>daß</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1429 25 1457 50; x_wconf 73'>m</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1475 19 1516 71; x_wconf 54'>w</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1532 18 1592 67; x_wconf 48'>Ists</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1609 20 1681 56; x_wconf 55'>Hm</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1697 24 1830 59; x_wconf 57'>»Um</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-773-gd33ed' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "isisvonoken1826oken_0137.line_1_23.jpg"; bbox 0 0 612 43; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 599 43">
+    <p class='ocr_par' id='par_1_1' lang='ubma/frak2021_0.905_1587027_9141630' title="bbox 0 0 599 43">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 599 43; baseline 0 -9; x_size 40; x_descenders 6; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 0 94 43; x_wconf 72'>ſchen</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 109 0 235 40; x_wconf 88'>Aufſaͤtze</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 261 0 463 38; x_wconf 90'>aufgenommen</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 488 6 599 34; x_wconf 91'>werden.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
