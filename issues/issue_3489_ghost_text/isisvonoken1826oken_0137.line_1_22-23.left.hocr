@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-773-gd33ed' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "isisvonoken1826oken_0137.line_1_22-23.left.jpg"; bbox 0 0 912 90; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 28 7 899 84">
+    <p class='ocr_par' id='par_1_1' lang='ubma/frak2021_0.905_1587027_9141630' title="bbox 28 7 899 84">
+     <span class='ocr_line' id='line_1_1' title="bbox 109 7 899 54; baseline -0.001 -10; x_size 43; x_descenders 6; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_1' title='bbox 109 7 209 54; x_wconf 29'>D.</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 259 11 356 42; x_wconf 79'>Damit</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 380 12 423 45; x_wconf 92'>ſich</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 440 10 584 43; x_wconf 93'>Niemand</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 610 12 749 49; x_wconf 90'>vergeblich</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 778 12 899 49; x_wconf 79'>bemuͤhe,</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 28 45 607 84; baseline -0.005 -5; x_size 38.125523; x_descenders 6.1255231; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_7' title='bbox 28 47 102 84; x_wconf 88'>chen</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 129 45 243 83; x_wconf 13'>Aüffätze</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 269 46 471 81; x_wconf 91'>aufgenommen</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 496 49 607 77; x_wconf 92'>werden.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

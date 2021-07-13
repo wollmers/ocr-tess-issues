@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-773-gd33ed' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "isisvonoken1826oken_0137.line_1_22-23.right.jpg"; bbox 0 0 926 90; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 13 13 916 67">
+    <p class='ocr_par' id='par_1_1' lang='ubma/frak2021_0.905_1587027_9141630' title="bbox 13 13 916 67">
+     <span class='ocr_line' id='line_1_1' title="bbox 13 13 916 67; baseline 0.004 -19; x_size 45; x_descenders 10; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_1' title='bbox 13 13 40 48; x_wconf 92'>ſo</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 67 13 132 45; x_wconf 91'>wird</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 153 13 245 48; x_wconf 80'>biemit</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 263 15 409 52; x_wconf 10'>angezeigt,</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 438 17 488 53; x_wconf 88'>daß</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 515 17 543 50; x_wconf 88'>in</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 561 17 602 51; x_wconf 91'>die</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 618 18 678 67; x_wconf 59'>Iſis</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 695 20 767 57; x_wconf 92'>keine</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 783 24 916 59; x_wconf 36'>voliti/</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
