@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0-alpha-773-gd33ed' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "sample_turned.png"; bbox 0 0 785 64; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 13 15 774 43">
+    <p class='ocr_par' id='par_1_1' lang='GT4Hist2M' title="bbox 13 15 774 43">
+     <span class='ocr_line' id='line_1_1' title="bbox 13 15 774 43; baseline 0 -6; x_size 26; x_descenders 4; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 13 18 66 38; x_wconf 45'>3269.</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 75 16 176 43; x_wconf 24'>Byron&#39;s,</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 185 15 246 41; x_wconf 90'>Lord,</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 254 16 333 40; x_wconf 66'>ſaͤmmtl.</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 344 17 416 37; x_wconf 87'>Werke.</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 428 18 467 39; x_wconf 84'>Jns</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 474 18 564 41; x_wconf 91'>Deutſche</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 571 16 629 41; x_wconf 85'>uͤberſ.</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 642 21 659 37; x_wconf 85'>v.</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 668 17 774 42; x_wconf 88'>Mehreren.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+time tesseract sample_turned.png sample_turned.psm7.ubma -l ubma/frak2021_0.905_1587027_9141630 --psm 7 --tessdata-dir /usr/local/share/tessdata txt hocr
+
+$ time tesseract sample_turned.png sample_turned.psm7.ubma -l ubma/frak2021_0.905_1587027_9141630 --psm 7 --tessdata-dir /usr/local/share/tessdata txt hocr
+Failed to load any lstm-specific dictionaries for lang ubma/frak2021_0.905_1587027_9141630!!
+Tesseract Open Source OCR Engine v5.0.0-alpha-773-gd33ed with Leptonica
+
+real	0m0.327s
+user	0m0.291s
+sys	0m0.023s
+
+$ uni identify ſaͤm
+     cpoint  dec    utf-8       html       name
+'ſ'  U+017F  383    c5 bf       &#x17f;    LATIN SMALL LETTER LONG S (Lowercase_Letter)
+'a'  U+0061  97     61          &#x61;     LATIN SMALL LETTER A (Lowercase_Letter)
+'◌ͤ'  U+0364  868    cd a4       &#x364;    COMBINING LATIN SMALL LETTER E (Nonspacing_Mark)
+'m'  U+006D  109    6d          &#x6d;     LATIN SMALL LETTER M (Lowercase_Letter)
+$ uni identify uͤb
+     cpoint  dec    utf-8       html       name
+'u'  U+0075  117    75          &#x75;     LATIN SMALL LETTER U (Lowercase_Letter)
+'◌ͤ'  U+0364  868    cd a4       &#x364;    COMBINING LATIN SMALL LETTER E (Nonspacing_Mark)
+'b'  U+0062  98     62          &#x62;     LATIN SMALL LETTER B (Lowercase_Letter)
+
+
+-l GT4Hist2M
+
+time tesseract sample_turned.png sample_turned.psm7.gt4hist -l GT4Hist2M --psm 7 --tessdata-dir /usr/local/share/tessdata txt hocr
+
+$ time tesseract sample_turned.png sample_turned.psm7.gt4hist -l GT4Hist2M --psm 7 --tessdata-dir /usr/local/share/tessdata txt hocr
+Failed to load any lstm-specific dictionaries for lang GT4Hist2M!!
+Tesseract Open Source OCR Engine v5.0.0-alpha-773-gd33ed with Leptonica
+
+real	0m0.388s
+user	0m0.315s
+sys	0m0.033s
